@@ -446,7 +446,7 @@ html, body {
   background-color: #6F42C1;
 }
 }
-@media (max-width:400px){
+@media (max-width:500px){
 .numerolog, .ad, .ad-banner, .astrolog-img{
   display: flex;
   align-items: center;
