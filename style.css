@@ -444,8 +444,12 @@ html, body {
   background-color: #6F42C1;
 }
 }
+@media (max-width:400px){
 .numerolog, .ad, .ad-banner, .astrolog-img{
   display: flex;
   align-items: center;
   justify-content: center;
+}}
+.sec-7{
+  margin-left: 20px;
 }
