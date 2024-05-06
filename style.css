@@ -395,7 +395,7 @@ html, body {
 .info-wd{
   margin-top: 18px;
   width:245.44px;
-  margin-left: 71px;
+  margin-left: 50px;
   border-radius: 180%;
 }
 .date{
@@ -408,12 +408,12 @@ html, body {
   border-radius: 5px;
   position: relative;
   bottom:  265px;
-  margin-left: 70px;
+  margin-left: 50px;
   margin-top: 18px;
   border: none;
   color: #ffffff;
 }
-@media(max-width:350px){
+@media(max-width:370px){
   .info-wd{
     width: 180px;
     
@@ -443,4 +443,7 @@ html, body {
   display: block;
   background-color: #6F42C1;
 }
+}
+.ad, .numerolog{
+  margin-left: 10px;
 }
