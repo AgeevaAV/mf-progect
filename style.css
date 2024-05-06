@@ -395,7 +395,7 @@ html, body {
 .info-wd{
   margin-top: 18px;
   width:245.44px;
-  margin-left: 50px;
+  margin-left: 20px;
   border-radius: 180%;
 }
 .date{
@@ -408,18 +408,20 @@ html, body {
   border-radius: 5px;
   position: relative;
   bottom:  265px;
-  margin-left: 50px;
+  margin-left: 20px;
   margin-top: 18px;
   border: none;
   color: #ffffff;
 }
 @media(max-width:370px){
   .info-wd{
-    width: 180px;
+    width: 120px;
+  
     
   }
   .button-prpl{
-    width: 180px;
+    width: 120px;
+
   }
   .circle{
     display: none;
@@ -451,5 +453,8 @@ html, body {
   justify-content: center;
 }}
 .sec-7{
-  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
