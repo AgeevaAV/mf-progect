@@ -453,6 +453,7 @@ html, body {
   justify-content: center;
 }}
 .sec-7{
+  margin-left: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
