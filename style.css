@@ -396,7 +396,7 @@ html, body {
 .info-wd{
   margin-top: 18px;
   width:245.44px;
-  margin-left: 20px;
+  margin-left: 60px;
   border-radius: 180%;
 }
 .date{
@@ -409,7 +409,7 @@ html, body {
   border-radius: 5px;
   position: relative;
   bottom:  265px;
-  margin-left: 20px;
+  margin-left: 60px;
   margin-top: 18px;
   border: none;
   color: #ffffff;
