@@ -414,7 +414,7 @@ html, body {
   border: none;
   color: #ffffff;
 }
-@media(max-width:370px){
+@media(max-width:350px){
   .info-wd{
     width: 120px;
   
