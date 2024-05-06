@@ -11,7 +11,8 @@ html, body {
 
 
 * {
-  box-sizing: border-box;}
+  box-sizing: border-box;
+}
 /* css для меню */
 .top-nav {
   display: flex;
@@ -447,14 +448,11 @@ html, body {
 }
 }
 @media (max-width:500px){
-.numerolog, .ad, .ad-banner, .astrolog-img{
+.numerolog, .ad, .ad-banner{
   display: flex;
   align-items: center;
   justify-content: center;
 }}
 .sec-7{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  margin: 50px 10px;
 }
