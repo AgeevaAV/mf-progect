@@ -444,3 +444,8 @@ html, body {
   background-color: #6F42C1;
 }
 }
+.numerolog, .ad{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
